@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tanvi! 
+- 🛰️ I have written code that's literally **out of this world** (I programmed a satellite module)
+- 👀 I’m interested in data science and product analytics for media/entertainment and social impact applications!
+- 🌱 I’m currently learning multimodal analyses.
+- 💞️ I’m looking to collaborate on media/entertainment application projects!
+- 📫 Reach me at tanviaanand@gmail.com
