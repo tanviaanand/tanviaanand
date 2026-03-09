@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Tanvi! Here's my website - [tanvianand.com](website)!
 - 🛰️ I have written code that's literally **out of this world** (I programmed a satellite module)
-- 🎓 I'm a graduate student at UT Austin and a research assistant at the Computational Media Lab.
-- 👀 I’m interested in data science and product analytics for media/entertainment and social impact applications!
-- 🌱 I’m currently learning multimodal analyses.
-- 💞️ I’m looking to collaborate on media/entertainment application projects!
+- I currently lead AI Product at Scrut (AI agents for compliance)
 - 📫 Reach me at tanviaanand@gmail.com
